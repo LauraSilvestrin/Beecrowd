@@ -11,16 +11,16 @@ As atividades estão organizadas em pastas, cada uma correspondendo a uma lingua
 ```
 beecrowd/
 ├── java/
-│   ├── 1001.java
-│   ├── 1002.java
-│   └── 1003.java
+│   ├── atv_1001.java
+│   ├── atv_1002.java
+│   └── atv_1003.java
 ├── cpp/
-│   ├── 1001.cpp
-│   ├── 1002.cpp
-│   └── 1003.cpp
+│   ├── atv_1001.cpp
+│   ├── atv_1002.cpp
+│   └── atv_1003.cpp
 └── python/
-    ├── 1001.py
-    ├── 1002.py
-    └── 1003.py
+    ├── atv_1001.py
+    ├── atv_1002.py
+    └── atv_1003.py
 ```
 
