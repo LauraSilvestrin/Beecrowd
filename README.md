@@ -2,7 +2,7 @@
 
 ## Repositório de Atividades Beecrowd
 
-Repositório de atividades da plataforma Beecrowd. Soluções dos problemas de programação que resolvi, organizados por linguagem de programação utilizada.
+Repositório de atividades da plataforma Beecrowd. Soluções dos problemas organizados por linguagem de programação utilizada.
 
 ### Estrutura do Repositório
 
